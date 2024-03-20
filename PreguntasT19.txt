@@ -1,0 +1,34 @@
+1- Dentro de la aplicacion LOCAL de un sistema de control de versiones solo se comunica con...
+	
+	a) Solo con el repositorio remoto. (CORRECTO)
+	b) Solo con el repositorio local.
+	c) Con todos los usuarios.
+	d) Todas son falsas.
+
+2- Qué característica es correcta sobre los repositorios?
+	
+	a) Almacena el código
+	b) Gestiona los archivos y versiones.
+	c) Se pueden asignar diferentes usuarios y roles.
+	d) Todas son correctas. (CORRECTO)
+
+3- Dentro del sistema distribuido en un sistema de control de versiones...
+	
+	a) Cada usuario tiene su propio repositorio en remoto.
+	b) Se incorpora una copia local del repositorio principal. (CORRECTO)
+	c) Solo descarga lo necesario para trabajar con el.
+	d) El codigo es menos flexible.
+
+4- Qúe sistema de control de versiones es el más usado?
+
+	a) GITHub.
+	b) GITLab.
+	c) GIT. (CORRECTO)
+	d) GITLab.
+
+5- Cual de estos comandos es para descargar las actualizaciones?
+	
+	a) Commit.
+	b) Push.
+	c) Pull. (CORRECTO)
+	d) Refresh.
