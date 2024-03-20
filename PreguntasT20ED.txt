@@ -1,0 +1,30 @@
+1. ¿Que tipos de acceso se pueden presentar en los servicios "clouds"?
+a) online y offline
+b) privado, público y híbrido (Correcta)
+c) privado y público
+d) online, offline y híbrido
+
+2. ¿Cuales de estas son arquitecturas cloud?
+a) SaaS
+b) PaaS
+c) IaaS
+d) Todas las anteriores son correctas (Correctas)
+
+3. Que plataforma "Cloud" ofrece la posibilidad de crear repositorios privados de manera gratuita y permite
+importar proyectos desde GitHub?
+a) SourceForge
+b) GNU Savannah
+c) BitBucket (Correcta)
+d) Ninguna de las anteriores
+
+4. ¿Cuales de estas caracteristicas son propias de GitLab?
+a) Integración continua
+b) creacion de repositorios privados ilimitados
+c) a y b son correctas (Correcta)
+d) ninguna es correcta
+
+5.¿Cuales de estas caracteristicas son propias de GitHub?
+a) Integracion continua
+b) Herramientas de trabajo colaborativo (Correcta)
+c) crear repositorios privados ilimitados
+d) a y c son correctas

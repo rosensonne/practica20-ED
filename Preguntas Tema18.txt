@@ -1,0 +1,29 @@
+1º¿Si tenemos en cuenta los consumidores de la documentacion que 2 roles podriamos distinguir?
+	a)Interno y Externos (Correcta)
+	b)Interno y Hibrido
+	c)Externo y Medio
+	d)Solo hay un rol, Externo
+
+2º¿Para que usamos el sistema de control de versiones?
+	a)Controlar y revisar que ha cambiado en el codigo
+	b)Permitir establecer diferentes roles
+	c)Poder iniciar GITHUB
+	d) a y b son correctas (Correcta)
+
+3º¿Cual de estos flujos de trabajo de un VCS es el correcto?
+	a)Realizar cambios, descargar los cambios y subir el codigo
+	b)Descargar codigo, realizar cambios y subir el codigo (Correcta)
+	c)Descargar codigo, subir el codigo al repositorio y realizar cambios
+	d)Descargar codigo y realizar cambios
+
+4º¿Existen herramientas para generar automaaticamente la documentacion?
+	a)No, solo se realiza de forma manual
+	b)Si, hay integradas en el IDE y aplicaciones externas (correcta)
+	c)Si, solo en el IDE donde se realiza el trabajo
+	d)No, pero NeatBens tiene una funcion
+
+5º¿Los comentarios son importantes para la realizacion de un proyecto?
+	a)No, no es necesario realizar comentarios
+	b)Si, son tan importantes que forman parte del codigo(Correcta)
+	c)Si, pero no importa si no se implementan
+	d)No, pero se recomienda
